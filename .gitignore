@@ -2,3 +2,6 @@
 
 *.xsd
 *.psd
+
+# Ignorar la carpeta docs
+docs/
